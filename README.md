@@ -186,3 +186,16 @@ module.exports = {
 ```bash
 $ npm i -D babel-loader
 ```
+
+---
+
+## netrify 배포
+
+- npm 프로젝트 배포 방법
+- 제품화 시키기 위해서는 내가 만든 명령어를 적어야 한다.
+
+```bash
+$ npm run build
+```
+
+- 그리고 build 된 결과물이 어디에 저장되는 지를 지정해야하는데 여기서는 **dist/** 폴더이므로 그에 맞게 지정해 주면된다.
