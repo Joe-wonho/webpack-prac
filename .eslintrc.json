@@ -25,7 +25,6 @@
       { "singleQuote": true, "parser": "flow" }
     ],
     "arrow-body-style": "off",
-    "prefer-arrow-callback": "off",
-    "quotes": ["off", "single"]
+    "prefer-arrow-callback": "off"
   }
 }
